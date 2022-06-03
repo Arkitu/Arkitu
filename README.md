@@ -1,6 +1,5 @@
-```python
-#!usr/bin/python3
-print("""
+```js
+console.log("""
   Hi, I'm Arkitu and I'm working with python and javascript.
   I code since my dad offered me my first pc on linux and I discovered Scratch.
   As I was on linux, I always try to modify my environment (many hour losted to
