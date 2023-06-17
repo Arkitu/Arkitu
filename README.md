@@ -1,9 +1,5 @@
 ```js
 console.log("""
-  Hi, I'm Arkitu and I'm working with python and javascript (node.js + typescript).
-  I code since my dad offered me my first pc on linux and I discovered Scratch.
-  As I was on linux, I always try to modify my environment (many hour losted to
-  have differents wallpapers on each of my desktop). I often work with
-  Raspberry pi.
+  Hi, I'm Arkitu. I'm doing projects for fun in Python, JavaScript (Node.js) and Rust
   """)
 ```
